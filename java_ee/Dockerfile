@@ -1,5 +1,5 @@
-FROM ubuntu
-MAINTAINER Rafael Pestano <rmpestano@gmail.com>
+FROM rhel/rhel7
+MAINTAINER Brandon Cox <bcox@redhat.com>
 
  
 # setup WildFly 
